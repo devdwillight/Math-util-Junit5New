@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Math Utility Project (CI included) | © 2024 by giáo.làng
+name: Math Utility Project (CI included) | © 2024 by Duc
 
 on:
   push:
